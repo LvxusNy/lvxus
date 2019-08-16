@@ -10,6 +10,13 @@
     <option name="notifyOnTcrRevert" value="true" />
     <option name="tcrEnabled" value="true" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/kata/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
