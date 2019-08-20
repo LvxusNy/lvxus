@@ -5,7 +5,7 @@
   </component>
   <component name="LimitedWIPSettings">
     <option name="autoRevertEnabled" value="true" />
-    <option name="doNotRevertFiles" value="/src/**" />
+    <option name="doNotRevertFiles" value="/src/*" />
     <option name="doNotRevertTests" value="true" />
     <option name="minutesTillRevert" value="5" />
     <option name="notifyOnTcrRevert" value="true" />
