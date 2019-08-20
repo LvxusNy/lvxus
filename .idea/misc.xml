@@ -5,7 +5,10 @@
   </component>
   <component name="LimitedWIPSettings">
     <option name="autoRevertEnabled" value="true" />
+    <option name="doNotRevertTests" value="true" />
     <option name="minutesTillRevert" value="5" />
+    <option name="notifyOnTcrRevert" value="true" />
+    <option name="tcrEnabled" value="true" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
