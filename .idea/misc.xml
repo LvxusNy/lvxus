@@ -6,6 +6,7 @@
   <component name="LimitedWIPSettings">
     <option name="autoRevertEnabled" value="true" />
     <option name="maxLinesInChange" value="20" />
+    <option name="minutesTillRevert" value="5" />
     <option name="noCommitsAboveThreshold" value="true" />
     <option name="notifyOnTcrRevert" value="true" />
     <option name="tcrEnabled" value="true" />
