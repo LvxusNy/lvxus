@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GitProject.iml" filepath="$PROJECT_DIR$/.idea/GitProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/kata/kata.iml" filepath="$PROJECT_DIR$/kata/kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalaDemo/scalaDemo.iml" filepath="$PROJECT_DIR$/scalaDemo/scalaDemo.iml" />
     </modules>
   </component>
 </project>
